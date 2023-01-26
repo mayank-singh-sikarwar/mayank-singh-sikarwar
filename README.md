@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayank-singh-sikarwar
-- 👀 I’m interested in finding the underlying genetic basis of idiopathic epilepsy.
-- 🌱 I’m currently learning Algorithms for DNA sequencing, gene expression analysis, utilisation and data curation from public data bases Clinvar, GEO, TCGA.
-- 💞️ I’m looking to collaborate on answering biological questions related to Alzheimer's disease, Glaucoma, and acute myeloid leukemia by using Next generation sequencing techniques, data analysis and machine learning modeling.
+- 👀 I am interested in finding the underlying genetic basis of idiopathic epilepsy.
+- 🌱 I am currently working on engineering publicly available clinical and experimental dataset of cancer patients for improved queriability. I am also designing a data portal which will catalouge dataset,raw and processed, from numerous mouse experiments.
+- 💞️ I would love to collaborate on studies that enhance our understanding in transcripnal and translational biology.
 - 📫 How to reach me: linkein: www.linkedin.com/in/mayank-sikarwar
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayank-singh-sikarwar
 - 👀 Learning to be a Deep learner.
-- 🌱 I am currently working on engineering publicly available clinical and experimental dataset of cancer patients for improved queriability. I am also designing a data portal which will catalouge dataset,raw and processed, from numerous mouse experiments.
+- 🌱 I am currently designing a data portal which will catalouge datasets obtained from various cancer mouse models.
 - 💞 I would love to collaborate on finding genetic basis of idiopathic epilepsy.
 - 📫 How to reach me: linkein: www.linkedin.com/in/mayank-sikarwar
 
